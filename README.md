@@ -14,3 +14,5 @@ Ensure you have the following installed:
 ### 1. Clone the repository:
 ```bash
 git clone https://github.com/jilldev99/backendMM.git
+
+I also added ENV file for you(It should not be added in git but for more clearence I have added)
